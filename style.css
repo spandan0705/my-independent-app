@@ -1,0 +1,13 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 90%;
+    letter-spacing: 2px;
+    height: 35px;
+}
+
+.copy_right_footer{
+    margin-top: 250px;
+}
